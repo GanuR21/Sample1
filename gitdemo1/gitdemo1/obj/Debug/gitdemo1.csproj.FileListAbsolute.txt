@@ -1,1 +1,6 @@
 C:\Users\Administrator\Desktop\New folder\sampleproject\gitdemo1\gitdemo1\bin\Debug\gitdemo1.exe.config
+C:\Users\Administrator\Desktop\New folder\sampleproject\gitdemo1\gitdemo1\bin\Debug\gitdemo1.exe
+C:\Users\Administrator\Desktop\New folder\sampleproject\gitdemo1\gitdemo1\bin\Debug\gitdemo1.pdb
+C:\Users\Administrator\Desktop\New folder\sampleproject\gitdemo1\gitdemo1\obj\Debug\gitdemo1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder\sampleproject\gitdemo1\gitdemo1\obj\Debug\gitdemo1.exe
+C:\Users\Administrator\Desktop\New folder\sampleproject\gitdemo1\gitdemo1\obj\Debug\gitdemo1.pdb

@@ -10,6 +10,13 @@ namespace gitdemo1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(AreaOfSquare(4));
+        }
+
+        public static double AreaOfSquare(float a)
+        {
+            double result = a * a;
+            return result;
         }
     }
 }
